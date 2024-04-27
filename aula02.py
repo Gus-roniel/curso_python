@@ -1,0 +1,1 @@
+print(1212, 3456, "Gustavo", sep="JOAO")
