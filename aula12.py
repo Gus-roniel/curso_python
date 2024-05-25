@@ -1,4 +1,4 @@
-# OPERADORES DE ATRIBUIÇÃO
+# OPERADORES DE
 # =
 a = 12
 print(a)
