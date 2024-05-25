@@ -11,9 +11,15 @@ print('concatenação:', concat, type(concat))
 subtracao = 10 - 8
 print('subtração:', subtracao)
 
+# multiplicação
+multiplicacao = 10 * 2
+print('multiplicacao ', multiplicacao)
+abc = 'teste'
+print(abc * 3)
+
 # divisao
 divisao = 10 / 2
-print('divisão ', divisao)
+print('divisão ', divisao, type(divisao))
 
 # divisao inteira
 divisao_int = 10 // 3.3
@@ -21,6 +27,7 @@ print('divisão inteira ', divisao_int)
 
 # exponenciação
 exponenciacao = 2 ** 5
+print(2 * 2 * 2 * 2 * 2)
 print('Esponenciação', exponenciacao)
 
 # modulo

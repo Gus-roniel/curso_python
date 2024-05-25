@@ -1,4 +1,4 @@
-# OPERADORES DE
+# OPERADORES DE ATRIBUIÇÃO
 # =
 a = 12
 print(a)
@@ -7,10 +7,14 @@ print(a)
 b = 5
 b += 12
 print(b)
+c = 1
+c = c + 5
+print(c)
 
 # -=
 b = 5
 b -= 12
+# b = 5 - 12
 print(b)
 
 # *=
@@ -20,24 +24,26 @@ print(b)
 
 
 # /=
-b1 = 50
+b1 = 50.0
 b1 /= 10
 print(b1)
 
 # %=
 b = 5
 b %= 2
+# b = b % 2
 print(b)
 
 # OPERADORES LÓGICOS
 # and
-print(2 == 2 and 5 > 7)
+print(2 == 2 and 15 > 7)
 
 # or
-print(2 == 2 or 5 > 7)
+print(2 != 2 or 5 > 7)
 
 # not
 a = False
+print(a)
 print(not (a))
 
 # OPERADORES DE ASSOCIAÇÃO

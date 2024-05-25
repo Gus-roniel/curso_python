@@ -1,8 +1,7 @@
 # ORDEM DOS OPERADORES
-
 # Parênteses
 # Potência
-# Multiplicaçao, divisão, módulo, divião inteira
+# Multiplicaçao, divisão, módulo, divisão inteira
 # Adição e substração
 
 a = 18
