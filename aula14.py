@@ -9,6 +9,7 @@ if idade < idade_para_dirigir:
 else:
     print('Você já pode fazer CNH')
 
+
 idade2 = int(input('Digite sua idade: '))
 casar_com_autorizacao = 16
 idade_para_casar = 18
